@@ -1,24 +1,22 @@
 ### Hi there, I'm Ayanika Paul! 👋
 
-🚀 **Aspiring Software Developer | Web Enthusiast | Problem Solver**
 
 I'm a **3rd-year Computer Science student at Manipal Institute of Technology, Manipal**, passionate about developing efficient software solutions and exploring web technologies. I love working on challenging projects, enhancing my problem-solving skills, and contributing to open-source communities.
 
 ### 🔥 What I Do:
 - 🖥 **Full-Stack Web Development** (Django, JavaScript, HTML, CSS, Bootstrap)
+- 🤖 **Machine Learning & Data Science (NumPy, Pandas, Scikit-learn, NLP)**
 - 📱 **Front-End Development** (React, JavaScript, UI/UX Design)
 - 🏗 **Software Development & System Design**
 - ⚡ **Data Structures & Algorithms (C, Java, Python)**
 - 🔍 **Embedded Systems & Microcontrollers (LPC-1768, Embedded C)**
-- 🤖 **Machine Learning & Data Science (NumPy, Pandas, Scikit-learn, NLP)**
+
 
 ### 📌 Projects:
-- 🛠 **TH Service Desk** - Task & project tracking system with Google Charts.
 - 🎥 **Movie Recommendation System** - NLP-based movie suggestion engine.
 - 📉 **Customer Churn Prediction** - ML model for predicting customer churn.
+- - 🛠 **TH Service Desk** - Task & project tracking system with Google Charts.
 - 📊 **Time Track Pro** - Gantt chart-based task tracking system.
-- 📚 **Library Management System** - Book & user management with DFDs.
-- 🔄 **TCP & UDP Client-Server** - Message exchange & matrix operations.
 - 🎮 **Tic-Tac-Toe Game** - JavaFX-based GUI with multithreading.
 - 🤖 **Joke Generator Web App** - React app fetching random jokes.
 - 🕹 **Simon Says Game** - Memory-based game using JavaScript.
@@ -38,6 +36,5 @@ I'm a **3rd-year Computer Science student at Manipal Institute of Technology, Ma
 ### 📬 Let's Connect!
 - **GitHub:** [@ayanikapaul](https://github.com/ayanikapaul)
 - **LinkedIn:** [Ayanika Paul](https://www.linkedin.com/in/ayanikapaul)
-- **Email:** [ayanikapaul@example.com](mailto:ayanikapaul@example.com)
 
 💡 *I’m always looking for exciting opportunities and collaborations. Feel free to reach out!* 😊
