@@ -12,14 +12,17 @@ I'm a **3rd-year Computer Science student at Manipal Institute of Technology, Ma
 - 🔍 **Embedded Systems & Microcontrollers (LPC-1768, Embedded C)**
 - 🤖 **Machine Learning & Data Science (NumPy, Pandas, Scikit-learn, NLP)**
 
-### 📌 Projects:
-- 🎮 **Tic-Tac-Toe Game** - JavaFX-based GUI game with multithreading and exception handling.
-- 🎵 **Spotify Sign-in Page Clone** - A responsive UI/UX design using HTML & CSS.
-- 🕹 **Simon Says Online Game** - Interactive memory-based game using JavaScript.
-- 🔄 **Iterative TCP & UDP Client-Server Programs** - Implemented message exchange & matrix operations.
+### 📌 Projects (Ranked by Impact & Complexity):
+- 🛠 **TH Service Desk** - Developed a task management and project tracking system as part of my TaxHummer internship, integrating Google Charts for visualization and enhancing user interaction with dynamic UI components.
+- 🎥 **Movie Recommender System** - Developed a content-based filtering movie recommendation system using NLP, TF-IDF vectorization, and Cosine Similarity. Integrated TMDB API for fetching movie posters.
+- 📉 **Customer Churn Prediction Model** - Built a machine learning model using logistic regression, decision trees, and random forests to predict customer churn and enhance retention strategies.
 - 📊 **Time Track Pro** - A task-tracking system with a Gantt chart for project management.
 - 📚 **Library Management System** - Managing books, users, and transactions with DFDs & sequence diagrams.
-- 🎥 **Movie Recommender System** - Developed a content-based filtering movie recommendation system using NLP, TF-IDF vectorization, and Cosine Similarity. Integrated TMDB API for fetching movie posters.
+- 🔄 **Iterative TCP & UDP Client-Server Programs** - Implemented message exchange & matrix operations.
+- 🎮 **Tic-Tac-Toe Game** - JavaFX-based GUI game with multithreading and exception handling.
+- 🤖 **Joke Generator Web App** - A React-based web app fetching and displaying random jokes using a public API, demonstrating API integration and component-based design.
+- 🕹 **Simon Says Online Game** - Interactive memory-based game using JavaScript.
+- 🎵 **Spotify Sign-in Page Clone** - A responsive UI/UX design using HTML & CSS.posters.
 - 📉 **Customer Churn Prediction Model** - Built a machine learning model using logistic regression, decision trees, and random forests to predict customer churn and enhance retention strategies.
 - 🤖 **Joke Generator Web App** - A React-based web app fetching and displaying random jokes using a public API, demonstrating API integration and component-based design.
 - 🛠 **TH Service Desk** - Developed a task management and project tracking system as part of my TaxHummer internship, integrating Google Charts for visualization and enhancing user interaction with dynamic UI components.
