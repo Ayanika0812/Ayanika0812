@@ -34,6 +34,6 @@ I'm a **3rd-year Computer Science student at Manipal Institute of Technology, Ma
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 📬 Let's Connect!
 - **GitHub:** [@ayanikapaul](https://github.com/ayanikapaul)
-- **LinkedIn:** [Ayanika Paul](https://www.linkedin.com/in/ayanikapaul)
+- **LinkedIn:** [Ayanika Paul](https://www.linkedin.com/in/ayanika-paul/)
 
 💡 *I’m always looking for exciting opportunities and collaborations. Feel free to reach out!* 😊
