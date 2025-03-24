@@ -14,7 +14,7 @@ I'm a **3rd-year Computer Science student at Manipal Institute of Technology, Ma
 ## 📌 Projects:  
 - 🎥 **Movie Recommendation System** – NLP-based movie suggestion engine.  
 - 📉 **Customer Churn Prediction** – ML model for predicting customer churn.
-- 🔥 E-Commerce Platform – React.js-based shopping site with dynamic filtering & cart management   
+- 🔥 Happyhaul E-Commerce Platform – React.js-based shopping site with dynamic filtering & cart management   
 - 🛠 **TH Service Desk** – Task & project tracking system with Google Charts.  
 - 📊 **Time Track Pro** – Gantt chart-based task tracking system.  
 - 🎮 **Tic-Tac-Toe Game** – JavaFX-based GUI with multithreading.
