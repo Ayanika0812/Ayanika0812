@@ -1,6 +1,6 @@
 # Hi there, I'm Ayanika Paul! 👋  
 
-I'm a **3rd-year Computer Science student at Manipal Institute of Technology, Manipal**, passionate about developing efficient software solutions and exploring web technologies. I love working on challenging projects, enhancing my problem-solving skills, and contributing to open-source communities.  
+I'm a **Final-year Computer Science student at Manipal Institute of Technology, Manipal**, passionate about developing efficient software solutions and exploring web technologies.
 
 ## 🔥 What I Do:  
 - 🖥 **Full-Stack Web Development** – Django, JavaScript, HTML, CSS, Bootstrap  
