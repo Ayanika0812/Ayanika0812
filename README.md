@@ -51,9 +51,11 @@ I enjoy turning ideas into real-world products and continuously improving my pro
 
 ## 📊 GitHub Stats  
 
-![Ayanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayanika0812&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayanika0812&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanika0812&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Ayanika0812&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanika0812&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
