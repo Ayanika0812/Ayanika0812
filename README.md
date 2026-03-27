@@ -1,4 +1,4 @@
-# Hi there, I'm Ayanika Paul! 👋  
+[# Hi there, I'm Ayanika Paul! 👋  
 
 I'm a **Final-year Computer Science student at Manipal Institute of Technology, Manipal**, passionate about developing efficient software solutions and exploring web technologies.
 
@@ -37,3 +37,4 @@ I'm a **Final-year Computer Science student at Manipal Institute of Technology, 
 - **LinkedIn:** [Ayanika Paul](https://www.linkedin.com/in/ayanika-paul/)
 
 💡 *I’m always looking for exciting opportunities and collaborations. Feel free to reach out!* 😊
+](https://ishan-surana.vercel.app/)
